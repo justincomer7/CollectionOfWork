@@ -1,0 +1,31 @@
+global declarations
+define x
+define f
+define z
+define a
+
+implementations
+function main return type void 
+begin 
+	set x = 28
+	set f = 4
+	set z = x / f
+	set a = 700
+	
+	repeat
+		set x = x / 2
+	until 
+		x == z
+	endrepeat
+	
+	set x = x * 100
+	
+	if 
+		x == a
+	then 
+		display "Correct"
+	else 
+		display "Incorrect"
+	endif
+	
+endfun
