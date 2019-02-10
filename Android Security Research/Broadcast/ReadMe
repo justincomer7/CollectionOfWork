@@ -1,0 +1,4 @@
+This was a portion of a project in which my group was tasked with discovering security flaws in interapp comunication across an 
+an android platform. These this folder includes three simple apps, one that sends data, an intended reciever of that data, and a 
+malicious app that will try to intercept that data. The security measures include priveleges that are provided by the android API 
+and an authenticator. 
