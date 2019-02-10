@@ -1,0 +1,3 @@
+This folder includes two apps that were used to explore the issues concerning the startService method. One app is used to find 
+the users locatio and the other app is a malicious app that will try to steal that information. This was used to find a way to 
+correct such issues. 
