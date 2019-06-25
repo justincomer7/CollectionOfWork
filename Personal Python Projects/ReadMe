@@ -1,0 +1,4 @@
+This folder contains python projects created in my spare time in order to gain a better understanding of the language
+
+ConnectionChecker - saves urls to a database and when commanded will give the status of the urls and update the user if a 
+a change in status has occured
